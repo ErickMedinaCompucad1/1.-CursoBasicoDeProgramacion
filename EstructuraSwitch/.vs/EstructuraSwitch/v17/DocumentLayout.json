@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\EstructuraSwitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C405C823-AC77-4BEB-9FC0-A6612C1723C2}|EstructuraSwitch\\EstructuraSwitch.csproj|c:\\users\\erick.medina\\onedrive - compucad sa de cv\\documentos\\1.-cursos de c sharp\\1.-cursobasicodeprogramacion\\estructuraswitch\\estructuraswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C405C823-AC77-4BEB-9FC0-A6612C1723C2}|EstructuraSwitch\\EstructuraSwitch.csproj|solutionrelative:estructuraswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\EstructuraSwitch\\EstructuraSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "EstructuraSwitch\\Program.cs",
+              "ToolTip": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\EstructuraSwitch\\EstructuraSwitch\\Program.cs",
+              "RelativeToolTip": "EstructuraSwitch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:48:58.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

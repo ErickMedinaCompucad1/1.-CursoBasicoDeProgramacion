@@ -1,0 +1,14 @@
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.exe
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.deps.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.runtimeconfig.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.AssemblyInfoInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.AssemblyInfo.cs
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\refint\EstructuraSwitch.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.genruntimeconfig.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\EstructuraSwitch\EstructuraSwitch\obj\Debug\net8.0\ref\EstructuraSwitch.dll

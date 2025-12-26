@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\SetenciaIF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3111D28C-D3D3-42E5-91DE-A44B5D64CD34}|SetenciaIF\\SetenciaIF.csproj|c:\\users\\erick.medina\\onedrive - compucad sa de cv\\documentos\\1.-cursos de c sharp\\1.-cursobasicodeprogramacion\\setenciaif\\setenciaif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3111D28C-D3D3-42E5-91DE-A44B5D64CD34}|SetenciaIF\\SetenciaIF.csproj|solutionrelative:setenciaif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\SetenciaIF\\SetenciaIF\\Program.cs",
+              "RelativeDocumentMoniker": "SetenciaIF\\Program.cs",
+              "ToolTip": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\SetenciaIF\\SetenciaIF\\Program.cs",
+              "RelativeToolTip": "SetenciaIF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:34:13.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

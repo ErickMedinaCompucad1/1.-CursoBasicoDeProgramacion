@@ -1,0 +1,14 @@
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\bin\Debug\net8.0\PriemerosPasos.exe
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\bin\Debug\net8.0\PriemerosPasos.deps.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\bin\Debug\net8.0\PriemerosPasos.runtimeconfig.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\bin\Debug\net8.0\PriemerosPasos.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\bin\Debug\net8.0\PriemerosPasos.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\PriemerosPasos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\PriemerosPasos.AssemblyInfoInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\PriemerosPasos.AssemblyInfo.cs
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\PriemerosPasos.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\PriemerosPasos.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\refint\PriemerosPasos.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\PriemerosPasos.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\PriemerosPasos.genruntimeconfig.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\PriemerosPasos\PriemerosPasos\obj\Debug\net8.0\ref\PriemerosPasos.dll

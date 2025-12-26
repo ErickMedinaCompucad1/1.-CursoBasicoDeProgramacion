@@ -1,0 +1,14 @@
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\bin\Debug\net8.0\ManipulacionDeStrings.exe
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\bin\Debug\net8.0\ManipulacionDeStrings.deps.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\bin\Debug\net8.0\ManipulacionDeStrings.runtimeconfig.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\bin\Debug\net8.0\ManipulacionDeStrings.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\bin\Debug\net8.0\ManipulacionDeStrings.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\ManipulacionDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\ManipulacionDeStrings.AssemblyInfoInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\ManipulacionDeStrings.AssemblyInfo.cs
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\ManipulacionDeStrings.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\ManipulacionDeStrings.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\refint\ManipulacionDeStrings.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\ManipulacionDeStrings.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\ManipulacionDeStrings.genruntimeconfig.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ManipulacionDeStrings\ManipulacionDeStrings\obj\Debug\net8.0\ref\ManipulacionDeStrings.dll

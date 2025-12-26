@@ -1,0 +1,14 @@
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\SetenciaIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\SetenciaIF.AssemblyInfoInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\SetenciaIF.AssemblyInfo.cs
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\SetenciaIF.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\bin\Debug\net8.0\SetenciaIF.exe
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\bin\Debug\net8.0\SetenciaIF.deps.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\bin\Debug\net8.0\SetenciaIF.runtimeconfig.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\bin\Debug\net8.0\SetenciaIF.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\bin\Debug\net8.0\SetenciaIF.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\SetenciaIF.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\refint\SetenciaIF.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\SetenciaIF.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\SetenciaIF.genruntimeconfig.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\SetenciaIF\SetenciaIF\obj\Debug\net8.0\ref\SetenciaIF.dll
