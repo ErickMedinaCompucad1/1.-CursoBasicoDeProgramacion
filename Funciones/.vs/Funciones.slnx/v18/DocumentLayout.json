@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\Funciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935F900E-BED5-49EB-A779-EE59ECD0C3EE}|Funciones\\Funciones.csproj|c:\\users\\erick.medina\\onedrive - compucad sa de cv\\documentos\\1.-cursos de c sharp\\1.-cursobasicodeprogramacion\\funciones\\funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F900E-BED5-49EB-A779-EE59ECD0C3EE}|Funciones\\Funciones.csproj|solutionrelative:funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\Funciones\\Funciones\\Program.cs",
+              "RelativeDocumentMoniker": "Funciones\\Program.cs",
+              "ToolTip": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\Funciones\\Funciones\\Program.cs",
+              "RelativeToolTip": "Funciones\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:13:59.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
