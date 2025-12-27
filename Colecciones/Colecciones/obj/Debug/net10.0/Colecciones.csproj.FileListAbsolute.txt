@@ -1,0 +1,15 @@
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\bin\Debug\net10.0\Colecciones.exe
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\bin\Debug\net10.0\Colecciones.deps.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\bin\Debug\net10.0\Colecciones.runtimeconfig.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\bin\Debug\net10.0\Colecciones.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\bin\Debug\net10.0\Colecciones.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\Colecciones.AssemblyInfoInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\Colecciones.AssemblyInfo.cs
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\Colecciones.sourcelink.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\Colecciones.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\refint\Colecciones.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\Colecciones.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\Colecciones.genruntimeconfig.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Colecciones\Colecciones\obj\Debug\net10.0\ref\Colecciones.dll

@@ -1,0 +1,15 @@
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\bin\Debug\net10.0\Listas.exe
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\bin\Debug\net10.0\Listas.deps.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\bin\Debug\net10.0\Listas.runtimeconfig.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\bin\Debug\net10.0\Listas.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\bin\Debug\net10.0\Listas.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\Listas.AssemblyInfoInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\Listas.AssemblyInfo.cs
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\Listas.sourcelink.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\Listas.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\refint\Listas.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\Listas.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\Listas.genruntimeconfig.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\Listas\Listas\obj\Debug\net10.0\ref\Listas.dll

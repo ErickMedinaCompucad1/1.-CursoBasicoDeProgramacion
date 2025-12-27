@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\OtrasColecciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE6AD64-10B9-4C2D-8126-9515F7621F27}|OtrasColecciones\\OtrasColecciones.csproj|c:\\users\\erick.medina\\onedrive - compucad sa de cv\\documentos\\1.-cursos de c sharp\\1.-cursobasicodeprogramacion\\otrascolecciones\\otrascolecciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE6AD64-10B9-4C2D-8126-9515F7621F27}|OtrasColecciones\\OtrasColecciones.csproj|solutionrelative:otrascolecciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\OtrasColecciones\\OtrasColecciones\\Program.cs",
+              "RelativeDocumentMoniker": "OtrasColecciones\\Program.cs",
+              "ToolTip": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\OtrasColecciones\\OtrasColecciones\\Program.cs",
+              "RelativeToolTip": "OtrasColecciones\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:07:37.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

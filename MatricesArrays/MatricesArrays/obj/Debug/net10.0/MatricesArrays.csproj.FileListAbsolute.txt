@@ -1,0 +1,15 @@
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\bin\Debug\net10.0\MatricesArrays.exe
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\bin\Debug\net10.0\MatricesArrays.deps.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\bin\Debug\net10.0\MatricesArrays.runtimeconfig.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\bin\Debug\net10.0\MatricesArrays.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\bin\Debug\net10.0\MatricesArrays.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\MatricesArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\MatricesArrays.AssemblyInfoInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\MatricesArrays.AssemblyInfo.cs
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\MatricesArrays.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\MatricesArrays.sourcelink.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\MatricesArrays.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\refint\MatricesArrays.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\MatricesArrays.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\MatricesArrays.genruntimeconfig.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\MatricesArrays\MatricesArrays\obj\Debug\net10.0\ref\MatricesArrays.dll

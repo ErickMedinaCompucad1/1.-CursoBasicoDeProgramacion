@@ -1,0 +1,15 @@
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\bin\Debug\net10.0\ColasYPilas.exe
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\bin\Debug\net10.0\ColasYPilas.deps.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\bin\Debug\net10.0\ColasYPilas.runtimeconfig.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\bin\Debug\net10.0\ColasYPilas.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\bin\Debug\net10.0\ColasYPilas.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ColasYPilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ColasYPilas.AssemblyInfoInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ColasYPilas.AssemblyInfo.cs
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ColasYPilas.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ColasYPilas.sourcelink.json
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ColasYPilas.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\refint\ColasYPilas.dll
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ColasYPilas.pdb
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ColasYPilas.genruntimeconfig.cache
+C:\Users\erick.medina\OneDrive - Compucad SA de CV\Documentos\1.-Cursos de C Sharp\1.-CursoBasicoDeProgramacion\ColasYPilas\ColasYPilas\obj\Debug\net10.0\ref\ColasYPilas.dll

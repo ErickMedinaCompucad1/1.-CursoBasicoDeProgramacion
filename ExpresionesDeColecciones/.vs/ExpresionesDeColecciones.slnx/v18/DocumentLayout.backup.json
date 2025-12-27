@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\ExpresionesDeColecciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B28D11-9B96-4D10-95F5-7DEA6AA96938}|ExpresionesDeColecciones\\ExpresionesDeColecciones.csproj|c:\\users\\erick.medina\\onedrive - compucad sa de cv\\documentos\\1.-cursos de c sharp\\1.-cursobasicodeprogramacion\\expresionesdecolecciones\\expresionesdecolecciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B28D11-9B96-4D10-95F5-7DEA6AA96938}|ExpresionesDeColecciones\\ExpresionesDeColecciones.csproj|solutionrelative:expresionesdecolecciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\ExpresionesDeColecciones\\ExpresionesDeColecciones\\Program.cs",
+              "RelativeDocumentMoniker": "ExpresionesDeColecciones\\Program.cs",
+              "ToolTip": "C:\\Users\\erick.medina\\OneDrive - Compucad SA de CV\\Documentos\\1.-Cursos de C Sharp\\1.-CursoBasicoDeProgramacion\\ExpresionesDeColecciones\\ExpresionesDeColecciones\\Program.cs",
+              "RelativeToolTip": "ExpresionesDeColecciones\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:58:09.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
